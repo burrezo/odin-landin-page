@@ -1,2 +1,2 @@
-# odin-landin-page
+# odin-landing-page
 TheOdinProject Landing Page Practice
